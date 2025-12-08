@@ -1,0 +1,215 @@
+Name,GitHub,Test_doc,Has_doc,Has_test_doc,Doc_type,Language,Stars (k),Forks (k),Watching,How_to_run_tests,How_to_write_tests,Unit,Integration,e2e,Coverage,Mocks,Best practices/Tips
+Next.js,https://github.com/vercel/next.js?tab=readme-ov-file,https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md,Yes,Yes,Contributing,JavaScript,122,26.2,1.5,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Node.js,https://github.com/nodejs/node?tab=readme-ov-file,"https://github.com/nodejs/node/blob/main/doc/contributing/collaborator-guide.md#testing-and-ci
+https://github.com/nodejs/node/blob/main/doc/contributing/writing-tests.md 
+https://github.com/nodejs/node/blob/main/doc/contributing/pull-requests.md#step-6-test",Yes,Yes,Contributing,JavaScript,105,28.3,2.9,Yes,Yes,Yes,No,No,No,No,No
+Create-React-App,https://github.com/facebook/create-react-app?tab=readme-ov-file,https://create-react-app.dev/docs/running-tests/,Yes,Yes,External Documentation,JavaScript,102,26.7,1.9,Yes,Yes,Yes,No,Yes,No,Yes,No
+Jquery,https://github.com/jquery/jquery,https://github.com/jquery/jquery/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,59,20.6,3.2,Yes,Yes,Yes,No,No,No,No,Yes
+Sveltejs,https://github.com/sveltejs/svelte,https://github.com/sveltejs/svelte/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,77.2,4,865,Yes,Yes,Yes,No,Yes,No,No,No
+Webpack,https://github.com/webpack/webpack,https://github.com/webpack/webpack/blob/main/test/README.md,Yes,Yes,ReadMe,JavaScript,64.3,8.7,1.5,Yes,Yes,Yes,Yes,No,No,No,No
+Angular,https://github.com/angular/angular.js,https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#unit-tests,Yes,Yes,Other,JavaScript,58.9,27.5,3.8,Yes,No,Yes,Yes,Yes,No,No,No
+Gatsby,https://github.com/gatsbyjs/gatsby,https://www.gatsbyjs.com/contributing/code-contributions/,Yes,Yes,External Documentation,JavaScript,55.1,10.3,742,Yes,No,Yes,No,Yes,No,No,No
+React,https://github.com/facebook/react/blob/main/CONTRIBUTING.md,https://legacy.reactjs.org/docs/how-to-contribute.html,Yes,Yes,External Documentation,JavaScript,225,45.9,6.6,Yes,No,Yes,No,No,No,No,No
+Mermaid,https://github.com/mermaid-js/mermaid,https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/docs/community/contributing.md,Yes,Yes,Contributing,JavaScript,68.8,6.1,637,Yes,Yes,Yes,Yes,Yes,No,No,No
+Louislam,https://github.com/louislam/uptime-kuma,https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,52.5,4.7,265,No,No,Yes,No,No,No,No,No
+Prettier,https://github.com/prettier/prettier/tree/main,https://github.com/prettier/prettier/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,48.7,4.2,424,Yes,Yes,Yes,No,No,No,No,No
+Cypress,https://github.com/cypress-io/cypress,https://github.com/cypress-io/cypress/blob/develop/CONTRIBUTING.md#tests,Yes,Yes,Contributing,JavaScript,46.5,3.1,610,Yes,Yes,Yes,Yes,Yes,No,No,No
+Serverless,https://github.com/serverless/serverless/tree/main,https://github.com/serverless/serverless/blob/main/CONTRIBUTING.md#testing,Yes,Yes,ReadMe,JavaScript,46.3,5.7,940,Yes,No,Yes,Yes,No,Yes,Yes,No
+Meteor,https://github.com/meteor/meteor,https://github.com/meteor/meteor/blob/devel/DEVELOPMENT.md#tests,Yes,Yes,Other,JavaScript,44.1,5.2,1.6,Yes,No,No,Yes,No,No,No,No
+Yarn,https://github.com/yarnpkg/yarn/tree/master,https://yarnpkg.com/advanced/contributing,Yes,Yes,External Documentation,JavaScript,41.4,2.7,561,Yes,No,Yes,Yes,No,No,No,No
+Chart.js,https://github.com/chartjs/chart.js,https://www.chartjs.org/docs/latest/developers/contributing.html,Yes,Yes,External Documentation,JavaScript,64.1,11.9,1.4,Yes,Yes,Yes,No,No,No,No,No
+"
+three.js
+",https://github.com/mrdoob/three.js,"https://github.com/mrdoob/three.js/tree/dev/test/e2e
+
+https://github.com/mrdoob/three.js/blob/dev/test/unit/README.md",Yes,Yes,REadMe,JavaScript,101,35.2,2.6,Yes,No,Yes,No,Yes,No,No,No
+pdf.js,https://github.com/mozilla/pdf.js,https://github.com/mozilla/pdf.js/wiki/Contributing,Yes,Yes,Other,JavaScript,47.5,9.9,1.1,Yes,Yes,Yes,No,Yes,No,Yes,No
+marktext,https://github.com/marktext/marktext,https://github.com/marktext/marktext/blob/develop/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,45.8,3.4,418,Yes,No,Yes,No,No,No,No,No
+Parcel,https://github.com/parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/blob/v2/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,43.3,2.3,460,Yes,No,Yes,Yes,No,No,No,No
+Nuxt,https://github.com/nuxt/nuxt,https://nuxt.com/docs/guide/going-further/modules#testing,Yes,Yes,External Documentation,JavaScript,53.5,4.9,796,Yes,Yes,Yes,Yes,Yes,No,No,No
+Reveal.js,https://github.com/hakimel/reveal.js,,No,No,,JavaScript,67.4,16.6,1.7,,,,,,,,
+Semantic-UI,https://github.com/semantic-org/semantic-ui,https://github.com/Semantic-Org/Semantic-UI/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,51.1,5,1.3,No,No,No,No,No,No,No,No
+pm2,https://github.com/unitech/pm2,https://github.com/Unitech/pm2/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,41.1,2.6,651,Yes,No,No,No,Yes,No,No,Yes
+Leaflet,https://github.com/leaflet/leaflet,https://github.com/Leaflet/Leaflet/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,40.7,5.8,893,Yes,No,No,No,Yes,No,No,No
+algorithm-visualizer,https://github.com/algorithm-visualizer/algorithm-visualizer,https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,46.5,7.3,1.2,No,No,No,No,No,No,No,No
+Lodash,https://github.com/lodash/lodash,https://github.com/lodash/lodash/blob/main/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,59.5,7,841,Yes,Yes,Yes,No,No,No,No,No
+Ublock,https://github.com/gorhill/ublock,https://github.com/gorhill/uBlock/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,44.9,3,909,No,No,No,No,No,No,No,No
+Motrix,https://github.com/agalwood/motrix,https://github.com/agalwood/Motrix/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,44.4,4.5,481,No,No,No,No,No,No,No,No
+html5-boilerplate,https://github.com/h5bp/html5-boilerplate,https://github.com/h5bp/html5-boilerplate/blob/main/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,56.4,12.2,2.5,Yes,No,Yes,No,No,Yes,No,No
+moment,https://github.com/moment/moment,https://github.com/moment/moment/blob/develop/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,47.9,7,870,Yes,No,Yes,No,No,No,No,No
+nw.js,https://github.com/nwjs/nw.js,"https://github.com/nwjs/nw.js/blob/nw91/docs/For%20Developers/Contributing%20to%20NW.js.md
+
+https://github.com/nwjs/nw.js/blob/nw91/docs/For%20Developers/Writing%20Test%20Cases%20for%20NW.js.md",Yes,Yes,Other,JavaScript,40.3,3.9,1.6,Yes,Yes,Yes,No,No,No,No,No
+Video.js,https://github.com/videojs/video.js,https://github.com/videojs/admin/blob/main/CONTRIBUTING.md#contributing-code,Yes,Yes,Contributing,JavaScript,37.8,7.4,1.3,Yes,Yes,Yes,No,No,No,No,No
+HTMX,https://github.com/bigskysoftware/htmx,"https://github.com/bigskysoftware/htmx/blob/master/CONTRIBUTING.md
+
+https://github.com/bigskysoftware/htmx?tab=readme-ov-file#hacking-guide",Yes,Yes,Contributing,JavaScript,36.9,1.2,203,Yes,No,Yes,No,No,No,Yes,No
+preact,https://github.com/preactjs/preact,https://github.com/preactjs/preact/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,36.5,1.9,400,Yes,No,Yes,Yes,No,No,No,No
+insomnia,https://github.com/kong/insomnia,https://github.com/Kong/insomnia/blob/develop/DEVELOPMENT.md,Yes,Yes,Other,JavaScript,34.2,1.9,245,Yes,No,Yes,No,Yes,No,No,No
+react-beautiful-dnd,https://github.com/atlassian/react-beautiful-dnd,https://github.com/atlassian/react-beautiful-dnd/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,33.1,2.5,246,Yes,Yes,Yes,No,No,No,No,No
+Resume,https://github.com/resume/resume.github.com,https://github.com/resume/resume.github.com,Yes,No,,JavaScript,61.8,1.4,344,No,No,No,No,No,No,No,No
+marked,https://github.com/markedjs/marked,https://marked.js.org/contributing,Yes,Yes,External Documentation,JavaScript,32.7,3.4,387,Yes,Yes,Yes,No,No,No,No,No
+markdown-here,https://github.com/adam-p/markdown-here,https://github.com/adam-p/markdown-here/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,59.6,11.3,1,No,No,No,No,No,No,No,No
+vue-cli,https://github.com/vuejs/vue-cli,https://github.com/vuejs/vue-cli/blob/dev/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,29.8,6.3,636,Yes,No,Yes,No,Yes,No,No,No
+anime,https://github.com/juliangarnier/anime,,No,No,,JavaScript,49.5,3.7,750,,,,,,,,
+react-boilerplate,https://github.com/react-boilerplate/react-boilerplate,https://github.com/react-boilerplate/react-boilerplate/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,29.4,6.1,527,No,Yes,Yes,No,No,Yes,No,No
+ZX,https://github.com/google/zx,https://github.com/google/zx/blob/main/docs/contributing.md,Yes,No,,JavaScript,42.8,1.1,157,No,No,No,No,No,No,No,No
+jsPDF,https://github.com/parallax/jspdf,https://github.com/parallax/jsPDF/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,28.9,4.6,477,Yes,Yes,Yes,No,No,No,No,No
+sharp,https://github.com/lovell/sharp,https://github.com/lovell/sharp/blob/main/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,28.8,1.3,230,Yes,No,Yes,No,No,Yes,No,No
+Tooljet,https://github.com/tooljet/tooljet,"https://docs.tooljet.com/docs/contributing-guide/testing
+
+https://docs.tooljet.com/docs/contributing-guide/setup/docker",Yes,Yes,External Documentation,JavaScript,28.6,3.5,171,Yes,No,Yes,No,Yes,No,No,No
+vuex,https://github.com/vuejs/vuex,https://vuex.vuejs.org/guide/testing.html,Yes,Yes,External Documentation,JavaScript,28.4,9.6,763,Yes,Yes,Yes,Yes,No,No,Yes,No
+nginxconfig.io,https://github.com/digitalocean/nginxconfig.io,https://github.com/digitalocean/nginxconfig.io/blob/master/README.md,Yes,Yes,ReadMe,JavaScript,27.5,2,296,Yes,No,Yes,No,No,No,No,No
+docsify,https://github.com/docsifyjs/docsify,https://github.com/docsifyjs/docsify/blob/develop/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,27.3,5.7,267,Yes,Yes,Yes,No,No,No,No,No
+underscore,https://github.com/jashkenas/underscore,https://github.com/jashkenas/underscore/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,27.3,5.5,846,No,No,Yes,No,No,No,No,No
+tesseract.js,https://github.com/naptha/tesseract.js,https://github.com/naptha/tesseract.js?tab=readme-ov-file#contributing,Yes,No,,JavaScript,34.5,2.2,480,No,No,No,No,No,No,No,No
+netron,https://github.com/lutzroeder/netron,https://github.com/lutzroeder/netron/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,27.2,2.7,297,Yes,No,Yes,No,No,No,No,No
+mongoose,https://github.com/automattic/mongoose,https://github.com/Automattic/mongoose/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,26.9,3.8,490,Yes,Yes,Yes,No,No,No,No,No
+codemirror5,https://github.com/codemirror/codemirror5,https://github.com/codemirror/codemirror5/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,26.7,5,656,Yes,Yes,Yes,No,No,No,No,No
+gulp,https://github.com/gulpjs/gulp,https://github.com/gulpjs/gulp/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,33,4.2,1000,No,No,No,No,No,No,No,No
+ace,https://github.com/ajaxorg/ace,https://github.com/ajaxorg/ace#running-the-unit-tests,Yes,Yes,ReadMe,JavaScript,26.6,5.3,615,Yes,No,Yes,No,No,No,No,No
+LightHouse,https://github.com/googlechrome/lighthouse,https://github.com/GoogleChrome/lighthouse/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,28.2,9.3,592,Yes,No,Yes,No,Yes,No,No,No
+fabric.js,https://github.com/fabricjs/fabric.js,https://github.com/fabricjs/fabric.js/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,28.6,3.5,474,Yes,Yes,Yes,No,Yes,Yes,No,No
+lottie-web,https://github.com/airbnb/lottie-web,https://github.com/airbnb/lottie-web/blob/master/README.md#development,Yes,No,,JavaScript,30.2,2.9,453,No,No,No,No,No,No,No,No
+AnotherRedisDesktopManager,https://github.com/qishibo/anotherredisdesktopmanager,https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/README.md,Yes,No,,JavaScript,30.1,2.5,260,No,No,No,No,No,No,No,No
+eslint,https://github.com/eslint/eslint,https://eslint.org/docs/latest/contribute/tests,Yes,Yes,External Documentation,JavaScript,24.8,4.5,313,Yes,No,Yes,No,No,No,No,No
+Sortable,https://github.com/sortablejs/sortable,https://github.com/SortableJS/Sortable/blob/master/CONTRIBUTING.md,Yes,No,,JavaScript,29.3,3.7,412,No,No,No,No,No,No,No,No
+particles.js,https://github.com/vincentgarreau/particles.js,https://github.com/VincentGarreau/particles.js/blob/master/README.md,Yes,No,,JavaScript,28.8,4.8,558,No,No,No,No,No,No,No,No
+immer,https://github.com/immerjs/immer,,No,No,,JavaScript,27.4,0.8,157,,,,,,,,
+trillium,https://github.com/zadam/trilium,https://github.com/zadam/trilium#-contribute,Yes,No,,JavaScript,26.7,1.8,277,No,No,No,No,No,No,No,No
+Async,https://github.com/caolan/async,,No,No,,JavaScript,28.1,2.4,659,,,,,,,,
+Standard,https://github.com/standard/standard,https://github.com/standard/standard?tab=readme-ov-file#how-do-i-contribute-to-standardjs,Yes,No,,JavaScript,29,2.3,474,No,No,No,No,No,No,No,No
+Carbon,https://github.com/carbon-app/carbon,https://github.com/carbon-app/carbon/blob/main/.github/CONTRIBUTING.md,Yes,No,,JavaScript,34.4,1.9,246,No,No,No,No,No,No,No,No
+FullPage.js,https://github.com/alvarotrigo/fullpage.js,https://github.com/alvarotrigo/fullPage.js/wiki/Contributing-to-fullpage.js,Yes,No,,JavaScript,35.2,7.3,839,No,No,No,No,No,No,No,No
+Json-Server,https://github.com/typicode/json-server,https://github.com/typicode/json-server/blob/main/CONTRIBUTING.md,Yes,No,,JavaScript,72.5,7,997,No,No,No,No,No,No,No,No
+Select2,https://github.com/select2/select2,,No,No,,JavaScript,25.9,6.3,718,,,,,,,,
+AdminLTE,https://github.com/colorlibhq/adminlte,https://github.com/colorlibhq/adminlte?tab=readme-ov-file#contributing,Yes,No,,JavaScript,43.9,18.2,2,No,No,No,No,No,No,No,No
+React Router,https://github.com/remix-run/react-router/tree/main,https://github.com/remix-run/react-router/blob/main/docs/guides/contributing.md#tests,Yes,Yes,Contributing,JavaScript,52.5,10.2,809,Yes,No,No,No,No,No,No,No
+Day.js,https://github.com/iamkun/dayjs/tree/dev,https://github.com/iamkun/dayjs/blob/dev/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,46.3,2.3,280,Yes,Yes,No,No,No,Yes,No,No
+bootstrap,https://github.com/twbs/bootstrap,https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md#code-guidelines,Yes,Yes,Contributing,JavaScript,168,78.5,6.7,Yes,No,No,No,No,Yes,No,Yes
+Axios,https://github.com/axios/axios,https://github.com/axios/axios/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,105,10.8,1.2,Yes,No,No,No,No,No,No,No
+Ghost,https://github.com/tryghost/ghost,https://github.com/TryGhost/Ghost/blob/main/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,46.4,10.1,1,Yes,No,No,No,No,No,No,No
+monaco-editor,https://github.com/microsoft/monaco-editor,https://github.com/microsoft/monaco-editor/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,39.3,3.5,528,Yes,No,No,No,No,No,No,No
+Materialize,https://github.com/dogfalo/materialize,https://github.com/Dogfalo/materialize/blob/v1-dev/CONTRIBUTING.md#jasmine-testing-guide,Yes,Yes,Contributing,JavaScript,38.9,4.7,973,Yes,Yes,No,No,No,Yes,No,Yes
+Phaser,https://github.com/phaserjs/phaser,https://github.com/phaserjs/phaser/blob/master/.github/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,36.8,7.1,1.2,No,No,No,No,No,No,No,No
+github-readme-stats,https://github.com/anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,67.7,22.2,273,Yes,No,No,No,No,No,No,No
+Swiper,https://github.com/nolimits4web/swiper,https://github.com/nolimits4web/swiper/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,39.5,9.8,681,No,No,No,No,No,No,No,No
+Nodemon,https://github.com/remy/nodemon,https://github.com/remy/nodemon,Yes,Yes,ReadMe,JavaScript,26.2,1.7,259,No,No,No,No,No,No,No,No
+koa,https://github.com/koajs/koa,https://github.com/koajs/koa/blob/master/Readme.md#running-tests,Yes,Yes,ReadMe,JavaScript,35.1,3.2,834,Yes,No,No,No,No,No,No,No
+clipboard.js,https://github.com/zenorocha/clipboard.js,https://github.com/zenorocha/clipboard.js/blob/master/contributing.md,Yes,Yes,Contributing,JavaScript,34,4,420,No,No,No,No,No,No,No,No
+husky,https://github.com/typicode/husky,https://typicode.github.io/husky/,Yes,Yes,External Documentation,JavaScript,32.2,1,155,No,No,No,No,No,No,No,No
+fastify,https://github.com/fastify/fastify,https://github.com/fastify/fastify/blob/main/docs/Guides/Testing.md,Yes,Yes,Other,JavaScript,31.7,2.3,297,No,No,No,No,No,No,No,No
+webtorrent,https://github.com/webtorrent/webtorrent,https://github.com/webtorrent/.github/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,29.4,2.7,681,Yes,No,No,No,No,No,No,No
+slick,https://github.com/kenwheeler/slick,https://github.com/kenwheeler/slick/blob/master/CONTRIBUTING.markdown,Yes,Yes,Contributing,JavaScript,28.4,5.9,553,No,No,No,No,No,No,No,No
+backbone,https://github.com/jashkenas/backbone,https://github.com/jashkenas/backbone/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,28.1,5.4,1300,No,No,No,No,No,No,No,No
+learnGitBranching,https://github.com/pcottle/learngitbranching,https://github.com/pcottle/learnGitBranching/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,30.4,5.7,524,No,Yes,No,No,No,No,No,No
+Plyr,https://github.com/sampotts/plyr,https://github.com/sampotts/plyr/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,26.3,2.9,428,Yes,No,No,No,No,No,No,No
+aos,https://github.com/michalsnik/aos/tree/v2,https://github.com/michalsnik/aos/blob/v2/CONTRIBUTING.md#testing,Yes,Yes,Contributing,JavaScript,26.4,2.6,313,Yes,No,No,No,No,No,No,No
+quasar,https://github.com/quasarframework/quasar,https://quasar.dev/how-to-contribute/contribution-guide/,Yes,Yes,External Documentation,JavaScript,25.7,3.5,462,No,No,No,No,No,No,No,Yes
+Rollup,https://github.com/rollup/rollup,https://github.com/rollup/rollup/blob/master/CONTRIBUTING.md#how-to-run-one-test-on-your-local-machine,Yes,Yes,Contributing,JavaScript,25.2,1.5,263,Yes,Yes,No,No,No,Yes,No,No
+sheetjs,https://github.com/sheetjs/sheetjs,https://git.sheetjs.com/sheetjs/sheetjs/src/branch/master/CONTRIBUTING.md,Yes,Yes,Contributing,JavaScript,34.9,8,613,No,No,No,No,No,No,No,No
+Black,https://github.com/psf/black,https://black.readthedocs.io/en/latest/contributing/the_basics.html,Yes,Yes,External Documentation,Python,37.7,2.4,234,Yes,Yes,Yes,No,No,No,No,No
+Python,https://github.com/python/cpython,https://devguide.python.org/testing/run-write-tests/,Yes,Yes,External Documentation,Python,60.6,29.3,1.5,Yes,Yes,Yes,Yes,No,Yes,No,No
+Langchain,https://github.com/langchain-ai/langchain,https://python.langchain.com/docs/contributing/testing/,Yes,Yes,External Documentation,Python,87.6,13.7,665,Yes,No,Yes,Yes,No,Yes,Yes,No
+Pytorch,https://github.com/pytorch/pytorch/tree/main,https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md#unit-testing,Yes,Yes,Contributing,Python,79.6,21.4,1.7,Yes,No,Yes,No,No,No,No,Yes
+Localstack,https://github.com/localstack/localstack/tree/master,https://github.com/localstack/localstack/blob/master/docs/testing/README.md,Yes,Yes,ReadMe,Python,52.7,3.8,513,Yes,Yes,Yes,Yes,No,No,No,Yes
+Keras,https://github.com/keras-team/keras/tree/master,https://github.com/keras-team/keras/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,61.2,19.4,1.9,Yes,No,Yes,No,No,No,No,No
+Odoo,https://github.com/odoo/odoo,https://www.odoo.com/documentation/17.0/contributing/development.html,Yes,Yes,External Documentation,Python,35.7,23.3,1.5,No,Yes,Yes,Yes,No,No,Yes,No
+AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,https://github.com/Significant-Gravitas/AutoGPT/wiki/Contributing,Yes,Yes,Other,Python,164,43.5,1.6,Yes,Yes,Yes,Yes,No,Yes,No,No
+The Fuck,https://github.com/nvbn/thefuck/tree/master,https://github.com/nvbn/thefuck/blob/master/CONTRIBUTING.md#develop-using-local-python-installation,Yes,Yes,Contributing,Python,83.6,3.4,835,Yes,No,Yes,No,Yes,No,No,No
+Transformers,https://github.com/huggingface/transformers/tree/main,https://huggingface.co/docs/transformers/testing,Yes,Yes,External Documentation,Python,129,25.6,1.1,Yes,Yes,No,Yes,No,No,Yes,No
+Manin,https://github.com/ManimCommunity/manim/tree/main,"https://github.com/ManimCommunity/manim/blob/main/CONTRIBUTING.md
+
+https://docs.manim.community/en/stable/contributing.html",Yes,Yes,Contributing,Python,20,1.5,133,No,Yes,Yes,No,Yes,No,No,No
+Sherlock,https://github.com/sherlock-project/sherlock?tab=readme-ov-file,https://sherlockproject.xyz/contribute#coverage-and-unit-tests,Yes,Yes,External Documentation,Python,52.6,6.4,1.1,Yes,No,Yes,No,No,Yes,No,No
+Scrapy,https://github.com/scrapy/scrapy,"https://github.com/scrapy/scrapy/blob/master/CONTRIBUTING.md
+
+https://docs.scrapy.org/en/master/contributing.html",Yes,Yes,Contributing,Python,51.7,10.4,1.8,Yes,Yes,Yes,No,No,Yes,No,No
+ColossalAi,https://github.com/hpcaitech/ColossalAI,https://github.com/hpcaitech/ColossalAI/blob/main/CONTRIBUTING.md#unit-tests,Yes,Yes,Contributing,Python,38.3,4.3,381,Yes,No,Yes,No,No,No,No,No
+FastAPI,https://github.com/fastapi/fastapi,https://fastapi.tiangolo.com/contributing/#format-the-code,Yes,Yes,External Documentation,Python,74.1,6.2,673,Yes,No,Yes,No,No,Yes,No,No
+Ansible,https://github.com/ansible/ansible,https://docs.ansible.com/ansible/latest/dev_guide/testing.html#developing-testing,Yes,Yes,External Documentation,Python,62,23.8,1.9,Yes,Yes,Yes,Yes,No,Yes,No,No
+"
+scikit-learn",https://github.com/scikit-learn/scikit-learn,https://scikit-learn.org/stable/developers/index.html,Yes,Yes,External Documentation,Python,59.1,25.2,2.1,Yes,Yes,Yes,No,No,Yes,No,No
+Private-GPT,https://github.com/zylon-ai/private-gpt,https://github.com/zylon-ai/private-gpt?tab=readme-ov-file#-contributing,Yes,Yes,ReadMe,Python,53.1,7.1,451,Yes,No,Yes,No,No,No,No,No
+"
+face_recognition",https://github.com/ageitgey/face_recognition,https://github.com/ageitgey/face_recognition/blob/master/CONTRIBUTING.rst#tips,Yes,Yes,Contributing,Python,52.5,13.4,1.6,Yes,No,Yes,No,No,No,No,Yes
+gpt-engineer,https://github.com/gpt-engineer-org/gpt-engineer,https://github.com/gpt-engineer-org/gpt-engineer/blob/main/.github/CONTRIBUTING.md,Yes,Yes,Contributing,Python,51.5,6.7,504,No,No,Yes,No,No,No,No,No
+open-interpreter,https://github.com/OpenInterpreter/open-interpreter,https://github.com/OpenInterpreter/open-interpreter/blob/main/docs/CONTRIBUTING.md,Yes,Yes,Contributing,Python,51.2,4.5,382,Yes,No,Yes,No,No,No,No,No
+yolov5,https://github.com/ultralytics/yolov5,"https://github.com/ultralytics/yolov5/blob/master/CONTRIBUTING.md
+https://docs.ultralytics.com/help/contributing/",Yes,Yes,External Documentation,Python,48.9,16,384,No,No,Yes,No,No,Yes,No,Yes
+ComfyUI,https://github.com/comfyanonymous/ComfyUI,"https://github.com/comfyanonymous/ComfyUI/blob/master/CONTRIBUTING.md
+https://github.com/comfyanonymous/ComfyUI/blob/master/tests/README.md",Yes,Yes,ReadMe,Python,43.7,4.6,342,Yes,No,Yes,No,No,No,No,Yes
+Pandas,https://github.com/pandas-dev/pandas,https://pandas.pydata.org/docs/dev/development/contributing_codebase.html#testing-with-continuous-integration,Yes,Yes,External Documentation,Python,42.9,17.7,1.1,Yes,Yes,Yes,Yes,No,No,Yes,No
+Fooocus,https://github.com/lllyasviel/Fooocus,https://github.com/lllyasviel/Fooocus/blob/main/development.md,Yes,Yes,Other,Python,38.9,5.2,291,Yes,No,Yes,No,No,No,No,No
+Sentry,https://github.com/getsentry/sentry,https://develop.sentry.dev/development/testing/,Yes,Yes,External Documentation,Python,37.7,4.1,689,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+FastChat,https://github.com/lm-sys/FastChat,https://github.com/lm-sys/FastChat/blob/main/tests/README.md,Yes,Yes,ReadMe,Python,36,4.4,348,Yes,No,Yes,No,No,No,No,No
+core,https://github.com/home-assistant/core,https://developers.home-assistant.io/docs/development_testing,Yes,Yes,External Documentation,Python,70.9,29.6,1.3,Yes,Yes,Yes,Yes,No,Yes,No,No
+manim,https://github.com/3b1b/manim,https://docs.manim.community/en/latest/contributing.html,Yes,Yes,External Documentation,Python,61.6,5.7,883,Yes,Yes,Yes,No,No,No,No,No
+MetaGPT,https://github.com/geekan/MetaGPT,https://docs.deepwisdom.ai/main/en/guide/contribute/contribute_guide.html,Yes,Yes,External Documentation,Python,43.3,5.2,893,No,No,Yes,No,No,No,No,No
+Airflow,https://github.com/apache/airflow,https://github.com/apache/airflow/blob/main/contributing-docs/09_testing.rst,Yes,Yes,Other,Python,36,14,758,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+mitmproxy,https://github.com/mitmproxy/mitmproxy,https://github.com/mitmproxy/mitmproxy/blob/main/CONTRIBUTING.md#testing,Yes,Yes,Contributing,Python,35.7,4,622,Yes,No,Yes,No,No,Yes,No,No
+streamlit,https://github.com/streamlit/streamlit,https://github.com/streamlit/streamlit/wiki/Contributing,Yes,Yes,Other,Python,34.3,3,318,Yes,Yes,Yes,No,Yes,Yes,No,No
+gym,https://github.com/openai/gym,https://github.com/openai/gym/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,34.4,8.6,1100,Yes,No,Yes,No,No,No,No,No
+TTS,https://github.com/coqui-ai/tts,https://github.com/coqui-ai/TTS/blob/dev/CONTRIBUTING.md,Yes,Yes,Contributing,Python,33,4,278,Yes,Yes,Yes,No,No,No,No,No
+ray,https://github.com/ray-project/ray,https://docs.ray.io/en/latest/ray-contribute/getting-involved.html#testing,Yes,Yes,External Documentation,Python,32.8,5.6,475,Yes,No,Yes,No,No,No,No,No
+ccxt,https://github.com/ccxt/ccxt,https://github.com/ccxt/ccxt/blob/master/CONTRIBUTING.md#how-to-build--run-tests-on-your-local-machine,Yes,Yes,Contributing,Python,32.3,7.4,932,Yes,Yes,Yes,Yes,No,No,Yes,No
+gradio,https://github.com/gradio-app/gradio,"https://github.com/gradio-app/gradio/blob/main/CONTRIBUTING.md
+
+https://github.com/gradio-app/gradio/blob/main/testing-guidelines/quality-strategy.md",Yes,Yes,Contributing,Python,31.8,2.4,167,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+certbot,https://github.com/certbot/certbot,https://eff-certbot.readthedocs.io/en/latest/contributing.html#testing,Yes,Yes,External Documentation,Python,31.2,3.4,749,Yes,Yes,Yes,Yes,No,Yes,No,No
+poetry,https://github.com/python-poetry/poetry,https://python-poetry.org/docs/contributing,Yes,Yes,External Documentation,Python,30.9,2.2,191,Yes,No,Yes,No,No,Yes,No,No
+detectron2,https://github.com/facebookresearch/detectron2,https://github.com/facebookresearch/detectron2/blob/main/tests/README.md,Yes,Yes,ReadMe,Python,29.8,7.4,388,Yes,No,Yes,No,Yes,No,No,No
+screenshot-to-code,https://github.com/abi/screenshot-to-code,,No,No,,Python,55.1,6.7,318,,,,,,,,
+spaCy,https://github.com/explosion/spacy,https://github.com/explosion/spaCy/tree/master/spacy/tests,Yes,Yes,Other,Python,29.6,4.3,560,Yes,Yes,Yes,No,No,Yes,Yes,No
+mmdetection,https://github.com/open-mmlab/mmdetection,https://github.com/open-mmlab/mmcv/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,28.9,9.4,370,Yes,No,Yes,No,No,Yes,No,No
+HTTPie cli,https://github.com/httpie/cli,https://github.com/httpie/cli/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,33.2,3.7,86,Yes,Yes,Yes,No,No,Yes,No,No
+OpenBB,https://github.com/OpenBB-finance/OpenBB,https://docs.openbb.co/platform/developer_guide/tests,Yes,Yes,External Documentation,Python,29.4,2.8,266,Yes,Yes,Yes,Yes,No,Yes,No,No
+DeepFakes,https://github.com/deepfakes/faceswap,https://github.com/deepfakes/faceswap?tab=readme-ov-file#how-to-contribute,Yes,No,,Python,50,13,1.5,No,No,No,No,No,No,No,No
+django-rest-framework,https://github.com/encode/django-rest-framework,https://www.django-rest-framework.org/community/contributing/,Yes,Yes,External Documentation,Python,28.1,6.8,623,Yes,No,Yes,No,No,No,No,No
+pytorch-lightning,https://github.com/Lightning-AI/pytorch-lightning,"https://github.com/Lightning-AI/pytorch-lightning/blob/master/tests/README.md
+
+https://lightning.ai/docs/pytorch/stable/generated/CONTRIBUTING.html",Yes,Yes,Contributing,Python,27.8,3.3,247,Yes,Yes,Yes,Yes,No,Yes,No,No
+freqtrade,https://github.com/freqtrade/freqtrade,"https://www.freqtrade.io/en/latest/developer/
+
+https://github.com/freqtrade/freqtrade/blob/develop/CONTRIBUTING.md",Yes,Yes,Contributing,Python,27.9,6,630,Yes,Yes,Yes,No,No,No,No,No
+ultralytics,https://github.com/ultralytics/ultralytics,"https://docs.ultralytics.com/help/contributing/
+
+https://docs.ultralytics.com/help/CI/",Yes,Yes,Other,Python,27.7,5.5,154,No,No,Yes,No,No,Yes,No,No
+numpy,https://github.com/numpy/numpy,https://numpy.org/devdocs/dev/index.html,Yes,Yes,External Documentation,Python,27.4,9.8,595,Yes,Yes,Yes,No,No,Yes,No,No
+llama_index,https://github.com/run-llama/llama_index,https://github.com/run-llama/llama_index/blob/main/CONTRIBUTING.md#testing,Yes,Yes,Contributing,Python,35.2,4.9,246,Yes,No,Yes,Yes,No,No,Yes,No
+Open-Assistant,https://github.com/LAION-AI/Open-Assistant,https://github.com/LAION-AI/Open-Assistant/blob/main/CONTRIBUTING.md,Yes,No,,Python,36.9,3.2,430,No,No,No,No,No,No,No,No
+Locust,https://github.com/locustio/locust,https://docs.locust.io/en/stable/developing-locust.html#testing-your-changes,Yes,Yes,External Documentation,Python,24.7,3,427,Yes,No,Yes,No,No,No,No,No
+Celery,https://github.com/celery/celery,https://github.com/celery/celery/blob/main/CONTRIBUTING.rst,Yes,Yes,Contributing,Python,24.6,4.7,470,Yes,No,Yes,Yes,No,Yes,No,No
+Pipenv,https://github.com/pypa/pipenv,https://pipenv.pypa.io/en/latest/dev/contributing.html,Yes,Yes,External Documentation,Python,24.8,1.9,360,Yes,No,Yes,No,No,No,No,No
+whisper,https://github.com/openai/whisper,,No,No,,Python,66.7,7.9,559,,,,,,,,
+Spleeter,https://github.com/deezer/spleeter,https://github.com/deezer/spleeter?tab=readme-ov-file#development-and-testing,Yes,Yes,Contributing,Python,25.7,2.8,387,Yes,No,Yes,No,No,No,No,No
+DragGAN,https://github.com/xingangpan/draggan,,No,No,,Python,35.6,3.4,1000,,,,,,,,
+quivr,https://github.com/QuivrHQ/quivr,,No,No,,Python,35.7,3.5,276,,,,,,,,
+TaskMatrix,https://github.com/chenfei-wu/TaskMatrix,https://github.com/chenfei-wu/TaskMatrix/blob/main/CONTRIBUTING.md,Yes,No,,Python,34.5,3.3,300,No,No,No,No,No,No,No,No
+sqlmap,https://github.com/sqlmapproject/sqlmap,https://github.com/sqlmapproject/sqlmap/blob/master/.github/CONTRIBUTING.md,Yes,No,,Python,31.8,5.7,1100,No,No,No,No,No,No,No,No
+gpt-pilot,https://github.com/Pythagora-io/gpt-pilot,https://github.com/Pythagora-io/gpt-pilot/blob/main/README.md#-contributing,Yes,No,,Python,29.4,2.9,261,No,No,No,No,No,No,No,No
+ChatTTS,https://github.com/2noise/ChatTTS,,No,No,,Python,29.7,3.2,172,,,,,,,,
+OpenVoice,https://github.com/myshell-ai/OpenVoice,,No,No,,Python,28.1,2.8,212,,,,,,,,
+Real-ESRGAN,https://github.com/xinntao/real-esrgan,https://github.com/xinntao/Real-ESRGAN/blob/master/docs/CONTRIBUTING.md,Yes,No,,Python,27.5,3.5,233,No,No,No,No,No,No,No,No
+StanfordAlpaca,https://github.com/tatsu-lab/stanford_alpaca,,No,No,,Python,29.3,4,339,,,,,,,,
+Rich,https://github.com/Textualize/rich/tree/master,https://github.com/Textualize/rich/blob/master/CONTRIBUTING.md#tests,Yes,Yes,Contributing,Python,48.2,1.7,539,Yes,No,No,No,No,Yes,No,No
+Gfpgan,https://github.com/tencentarc/gfpgan,,No,No,,Python,35.4,5.9,501,,,,,,,,
+stablediffusion,https://github.com/stability-ai/stablediffusion,,No,No,,Python,38.3,4.9,443,,,,,,,,
+OpenPilot,https://github.com/commaai/openpilot,https://github.com/commaai/openpilot/blob/master/docs/WORKFLOW.md#testing,Yes,Yes,Other,Python,48.8,8.9,1.3,Yes,No,No,No,No,No,No,No
+Real-Time-Voice-Cloning,https://github.com/corentinj/real-time-voice-cloning,,No,No,,Python,52,8.7,937,,,,,,,,
+text-generation-webui,https://github.com/oobabooga/text-generation-webui,https://github.com/oobabooga/text-generation-webui/wiki/Contributing-guidelines,Yes,Yes,Contributing,Python,38.7,5.1,330,No,No,No,No,No,No,No,No
+youtube-dl,https://github.com/ytdl-org/youtube-dl,https://github.com/ytdl-org/youtube-dl/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,131,9.9,2.2,Yes,Yes,No,No,No,No,No,No
+Mindsdb,https://github.com/mindsdb/mindsdb,https://docs.mindsdb.com/contribute/tests,Yes,No,,Python,26.3,4.8,398,No,No,No,No,No,No,No,No
+Diagrams,https://github.com/mingrammer/diagrams,https://github.com/mingrammer/diagrams/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,36.7,2.4,401,Yes,No,No,No,No,No,No,No
+feiraseq,https://github.com/facebookresearch/fairseq,https://github.com/facebookresearch/fairseq/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,Python,30.1,6.4,428,Yes,No,No,No,No,No,No,No
+DeepSpeed,https://github.com/microsoft/deepspeed,https://github.com/microsoft/DeepSpeed/blob/master/CONTRIBUTING.md#testing,Yes,Yes,Contributing,Python,34.6,4,343,Yes,No,No,No,No,No,No,No
+Request,https://github.com/psf/requests,https://requests.readthedocs.io/en/latest/dev/contributing/,Yes,Yes,External Documentation,Python,51.9,9.3,1.3,Yes,Yes,No,No,No,No,No,No
+ERPnext,https://github.com/frappe/erpnext,https://github.com/frappe/erpnext/wiki/Pull-Request-Checklist#test-cases,Yes,Yes,Other,Python,19.6,7,616,No,No,No,No,No,No,No,No
+Textual,https://github.com/Textualize/textual,https://github.com/Textualize/textual/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,Python,25.2,0.7,161,Yes,No,No,No,No,No,No,No
+Depix,https://github.com/spipm/Depix,,No,No,,Python,25.9,3.2,396,,,,,,,,
+YouCompleteMe,https://github.com/ycm-core/YouCompleteMe,https://github.com/ycm-core/YouCompleteMe/blob/master/CONTRIBUTING.md,Yes,Yes,Contributing,Python,25.4,2.8,559,No,Yes,No,No,No,No,No,No
+Diffusers,https://github.com/huggingface/diffusers,https://github.com/huggingface/diffusers/blob/main/CONTRIBUTING.md#tests,Yes,Yes,Contributing,Python,25.4,5.3,197,Yes,No,No,No,No,No,No,No
+Glances,https://github.com/nicolargo/glances,https://github.com/nicolargo/glances/blob/develop/CONTRIBUTING.md,Yes,Yes,Contributing,Python,26.2,1.5,502,Yes,No,Yes,No,No,No,No,No
+Python-Fire,https://github.com/google/python-fire,https://github.com/google/python-fire/blob/master/CONTRIBUTING.md#testing,Yes,Yes,Contributing,Python,26.8,1.4,369,Yes,No,No,No,No,No,Yes,No
+Langflow,https://github.com/langflow-ai/langflow,https://github.com/langflow-ai/langflow/blob/main/CONTRIBUTING.md,Yes,Yes,Contributing,Python,26.6,3.5,204,No,No,No,No,No,No,No,No

@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+.vscode/*
+
+data/*
+
 # Distribution / packaging
 .Python
 build/
@@ -81,6 +85,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+myenv/*
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
