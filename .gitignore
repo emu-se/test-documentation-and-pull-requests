@@ -10,6 +10,11 @@ __pycache__/
 
 data/*
 
+logs/*
+out_output.csv
+output.csv
+models/__pycache__/
+
 # Distribution / packaging
 .Python
 build/
@@ -64,6 +69,9 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+
+.env
+TODO.txt
 
 # Flask stuff:
 instance/
